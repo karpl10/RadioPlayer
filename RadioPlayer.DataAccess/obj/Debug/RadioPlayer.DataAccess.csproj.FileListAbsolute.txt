@@ -1,0 +1,7 @@
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.DataAccess\bin\Debug\RadioPlayer.DataAccess.dll
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.DataAccess\bin\Debug\RadioPlayer.DataAccess.pdb
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.DataAccess\bin\Debug\SQLite.Net.dll
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.DataAccess\obj\Debug\RadioPlayer.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.DataAccess\obj\Debug\RadioPlayer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.DataAccess\obj\Debug\RadioPlayer.DataAccess.dll
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.DataAccess\obj\Debug\RadioPlayer.DataAccess.pdb

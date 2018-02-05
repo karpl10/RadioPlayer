@@ -1,0 +1,8 @@
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.iOS\obj\iPhoneSimulator\Debug\RadioPlayer.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.iOS\obj\iPhoneSimulator\Debug\RadioPlayer.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.iOS\obj\iPhoneSimulator\Debug\RadioPlayer.iOS.exe
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.iOS\obj\iPhoneSimulator\Debug\RadioPlayer.iOS.pdb
