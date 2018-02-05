@@ -3,8 +3,13 @@ using RadioPlayer.DataAccess.Entities;
 
 namespace RadioPlayer.DataAccess.Models
 {
-    public class ContactsResponse : BaseResponse
+    public class StationResponse : BaseResponse
     {
-        public List<StationEntity> Contacts { get; set; }
+        public List<StationEntity> Stations { get; set; }
+    }
+
+    public class FavoriteResponse : BaseResponse
+    {
+        public List<StationEntity> Favorites { get; set; }
     }
 }

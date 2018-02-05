@@ -6,7 +6,7 @@ using Xamarin.Forms.Platform.Android;
 
 namespace RadioPlayer.Droid
 {
-    [Activity(Label = "RadioPlayer.Droid",
+    [Activity(Label = "Inżynierka Radio Player",
         Icon = "@drawable/icon",
         Theme = "@style/MyTheme",
         MainLauncher = true,

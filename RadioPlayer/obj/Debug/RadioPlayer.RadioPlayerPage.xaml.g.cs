@@ -9,14 +9,16 @@
 //------------------------------------------------------------------------------
 
 namespace RadioPlayer {
+    using System;
+    using Xamarin.Forms;
+    using Xamarin.Forms.Xaml;
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Karol\\Documents\\inżynierka\\RadioPlayer\\RadioPlayer\\RadioPlayerPage.xaml")]
-    public partial class RadioPlayerPage : global::Xamarin.Forms.ContentPage {
+    public partial class RadioPlayerPage : ContentPage {
         
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(RadioPlayerPage));
+            this.LoadFromXaml(typeof(RadioPlayerPage));
         }
     }
 }

@@ -42,7 +42,27 @@
       <DependentUpon>RadioPlayerPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\IAudioService.cs" />
     <Compile Include="Services\IDatabaseService.cs" />
+    <Compile Include="ViewModels\AddStationPageViewModel.cs" />
+    <Compile Include="ViewModels\FavoritesListViewModel.cs" />
+    <Compile Include="ViewModels\StationsListViewModel.cs" />
+    <Compile Include="Views\AddStationPage.xaml.cs">
+      <DependentUpon>AddStationPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FavoritesList.xaml.cs">
+      <DependentUpon>FavoritesList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainPageMaster.xaml.cs">
+      <DependentUpon>MainPageMaster.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainPageMenuItem.cs" />
+    <Compile Include="Views\StationsList.xaml.cs">
+      <DependentUpon>StationsList.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="ExifLib, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null">
@@ -99,6 +119,36 @@
       <Project>{74d6de3a-4d33-46d2-a333-a08f94aa6db5}</Project>
       <Name>RadioPlayer.DataAccess</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\MainPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\MainPageMaster.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\StationsList.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\FavoritesList.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Views\AddStationPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.4.0.280\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.4.0.280\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets')" />

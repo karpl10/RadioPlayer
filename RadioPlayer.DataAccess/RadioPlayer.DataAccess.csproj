@@ -33,8 +33,8 @@
     <Compile Include="Models\ItemsResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\Base\BaseDbRepository.cs" />
-    <Compile Include="Repositories\ContactRepository\IItemRepository.cs" />
-    <Compile Include="Repositories\ContactRepository\ItemDbRepository.cs" />
+    <Compile Include="Repositories\ItemRepository\IItemRepository.cs" />
+    <Compile Include="Repositories\ItemRepository\ItemDbRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

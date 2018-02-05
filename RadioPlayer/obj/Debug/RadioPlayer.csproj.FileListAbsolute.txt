@@ -1,3 +1,14 @@
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.App.xaml.g.cs
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.RadioPlayerPage.xaml.g.cs
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Views.MainPage.xaml.g.cs
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Views.MainPageMaster.xaml.g.cs
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Views.StationsList.xaml.g.cs
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Views.FavoritesList.xaml.g.cs
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Views.AddStationPage.xaml.g.cs
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.dll
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.dll
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\bin\Debug\ExifLib.dll
@@ -34,9 +45,3 @@ C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\bin\Debug\XLabs.For
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\bin\Debug\XLabs.Ioc.xml
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\bin\Debug\XLabs.Platform.xml
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\bin\Debug\XLabs.Serialization.xml
-C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
-C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.CoreCompileInputs.cache
-C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.App.xaml.g.cs
-C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.RadioPlayerPage.xaml.g.cs
-C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.dll
-C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb

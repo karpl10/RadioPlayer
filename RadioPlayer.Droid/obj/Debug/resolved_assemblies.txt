@@ -63,11 +63,11 @@ C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\and
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.ObjectModel.dll
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\RadioPlayer.DataAccess.dll
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.ComponentModel.dll
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.Text.Encoding.dll
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\Mono.Security.dll
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.ComponentModel.dll
-C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.IO.dll
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.Dynamic.Runtime.dll
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
