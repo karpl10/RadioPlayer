@@ -8,7 +8,10 @@ namespace RadioPlayer
         {
             InitializeComponent();
 
-            MainPage = new RadioPlayerPage();
+            var bootstrapper = new Bootstrapper();
+            bootstrapper.Run(this);
+            
+            //MainPage = new RadioPlayerPage();
         }
 
         protected override void OnStart()

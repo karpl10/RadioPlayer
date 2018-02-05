@@ -35,6 +35,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Bootstrapper.cs" />
     <Compile Include="Events\AddItemEvent.cs" />
     <Compile Include="Models\Item.cs" />
     <Compile Include="RadioPlayerPage.xaml.cs">
