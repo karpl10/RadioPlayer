@@ -10,7 +10,7 @@ namespace RadioPlayer
 
             var bootstrapper = new Bootstrapper();
             bootstrapper.Run(this);
-            
+
             //MainPage = new RadioPlayerPage();
         }
 

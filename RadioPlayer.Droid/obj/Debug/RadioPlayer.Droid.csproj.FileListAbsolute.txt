@@ -92,6 +92,9 @@ C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\and
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\bin\Debug\RadioPlayer.Droid.dll
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.dll
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer.Droid\bin\Debug\RadioPlayer.DataAccess.dll
 bin\Debug\RadioPlayer.dll.mdb
 bin\Debug\Mono.Android.pdb
 bin\Debug\Mono.Android.Export.pdb
