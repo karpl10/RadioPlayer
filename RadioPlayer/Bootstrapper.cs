@@ -3,6 +3,7 @@ using Prism.Unity;
 using RadioPlayer.DataAccess.Entities;
 using RadioPlayer.DataAccess.Repositories.ContactRepository;
 using RadioPlayer.Services;
+using RadioPlayer.Views;
 using Xamarin.Forms;
 
 namespace RadioPlayer
@@ -11,7 +12,7 @@ namespace RadioPlayer
     {
         protected override Page CreateMainPage()
         {
-            return Container.Resolve<RadioPlayerPage>();
+            return Container.Resolve<MainPage>();
         }
 
         protected override void RegisterTypes()

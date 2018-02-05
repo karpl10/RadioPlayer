@@ -40,3 +40,6 @@ C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlay
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.RadioPlayerPage.xaml.g.cs
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.dll
 C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Views.MainPage.xaml.g.cs
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Views.MainPageMaster.xaml.g.cs
+C:\Users\Karol\Documents\inżynierka\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Views.MainPageDetail.xaml.g.cs
